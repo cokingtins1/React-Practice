@@ -3,6 +3,7 @@ import React from "react"
 import { TodoListClass } from "./TodoListClass"
 import { Name } from "./NameClass"
 import { TodoFunc } from "./TodoFunc"
+import "./styles.css"
 
 function App() {
 	return (
